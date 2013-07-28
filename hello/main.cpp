@@ -8,7 +8,7 @@ int main()//int argc, char *argv[])
     cout<<"new one"<<endl;
     cout<<"new two"<<endl;
     cout<<"another new"<<endl;
-    cout<<"last one"<<endl;
+//    cout<<"last one"<<endl;
     
     return 0;//a.exec();
 }
