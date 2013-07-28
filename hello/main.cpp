@@ -7,6 +7,7 @@ int main()//int argc, char *argv[])
 //    QCoreApplication a(argc, argv);
     cout<<"new one"<<endl;
     cout<<"new two"<<endl;
+    cout<<"another new"<<endl;
     
     return 0;//a.exec();
 }
